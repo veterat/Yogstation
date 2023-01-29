@@ -914,11 +914,6 @@
 	},
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/syndicate/armory)
-"bX" = (
-/obj/structure/closet/syndicate/nuclear,
-/obj/effect/turf_decal/bot_white,
-/turf/open/floor/plasteel/dark,
-/area/shuttle/syndicate/armory)
 "bY" = (
 /obj/structure/window/reinforced{
 	dir = 1
@@ -1248,6 +1243,13 @@
 	},
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/syndicate/airlock)
+"ou" = (
+/obj/structure/closet/syndicate/nuclear,
+/obj/effect/turf_decal/bot_white,
+/obj/item/modular_computer/tablet/pda/preset/basic,
+/obj/item/computer_hardware/hard_drive/portable/syndicate/bomberman,
+/turf/open/floor/plasteel/dark,
+/area/shuttle/syndicate/armory)
 "pd" = (
 /obj/machinery/porta_turret/syndicate/shuttle{
 	dir = 5
@@ -1778,7 +1780,7 @@ bm
 bB
 bG
 bQ
-bX
+ou
 ci
 cn
 sI
